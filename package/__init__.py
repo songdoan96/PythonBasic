@@ -1,0 +1,1 @@
+print("In từ file init của package")
